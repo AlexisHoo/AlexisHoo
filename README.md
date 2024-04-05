@@ -1,7 +1,7 @@
 ### Hi I am Alexis !
 
 🎓 Currently studying in the [UTT](https://www.utt.fr/), as a computer science engineer !<br/>
-🔎 Here is the place where I am trying new things, let's see where it goes. 🐢🐢🐢<br/>
+🔎 Here is the place where I am trying new things, let's see how it goes. 🐢🐢🐢<br/>
 📖 Currently learning more about [Django](https://www.djangoproject.com/).<br/>
 
 
