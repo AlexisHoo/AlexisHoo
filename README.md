@@ -26,6 +26,6 @@
 # 🌞 Demonstration of my current project !
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Django - Sign UP/IN (Agenda Project)](https://ytcards.demolab.com/?id=vxyxJWRI5YQ&title=Django+-+Sign+UP%2FIN+%28Agenda+Project%29&lang=en&timestamp=1714067481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Django - Sign UP/IN (Agenda Project)")](https://www.youtube.com/watch?v=vxyxJWRI5YQ)
-[![Android Studio - Minimalistic Agenda](https://ytcards.demolab.com/?id=bLwWKng0lH0&title=Android+Studio+-+Minimalistic+Agenda&lang=en&timestamp=1712320228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Android Studio - Minimalistic Agenda")](https://www.youtube.com/watch?v=bLwWKng0lH0)
+
 [![Django - Medical Agenda project](https://ytcards.demolab.com/?id=AMv5mU-1T6g&title=Django+-+Medical+Agenda+project&lang=en&timestamp=1712279296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Django - Medical Agenda project")](https://www.youtube.com/watch?v=AMv5mU-1T6g)
 <!-- END YOUTUBE-CARDS -->
