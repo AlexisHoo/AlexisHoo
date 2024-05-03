@@ -28,6 +28,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🌞 Demonstration of my current project !
+👩‍⚕️ This project is basically an online agenda for doctor.<br/>
+The doctor can create his own list of patients, allowing them to to book an appointment online under strict conditions:<br/>
+-They cannot book an appointment when the doctor blocked it.<br/>
+-They cannot book an appointment in a forbidden day, decided by the doctor when he created the patient account.<br/>
+-They cannot book an appointment when the doctors has others appointments.<br/>
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Django  - Complete Project (mouse problem with recording)](https://ytcards.demolab.com/?id=A3BXryZaDOo&title=Django++-+Complete+Project+%28mouse+problem+with+recording%29&lang=en&timestamp=1714754491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Django  - Complete Project (mouse problem with recording)")](https://www.youtube.com/watch?v=A3BXryZaDOo)
 [![Django - Medical Agenda Project Main page](https://ytcards.demolab.com/?id=qI3eCVTG2QE&title=Django+-+Medical+Agenda+Project+Main+page&lang=en&timestamp=1714069214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Django - Medical Agenda Project Main page")](https://www.youtube.com/watch?v=qI3eCVTG2QE)
