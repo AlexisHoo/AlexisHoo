@@ -2,7 +2,7 @@
 
 🎓 Currently studying in the [UTT](https://www.utt.fr/), as a computer science engineer !<br/>
 🔎 Here is the place where I am trying new things, let's see how it goes. 🐢🐢🐢<br/>
-📖 Currently learning more about [Django](https://www.djangoproject.com/) and React.<br/>
+📖 Currently learning more about [Django](https://www.djangoproject.com/), [React](https://fr.react.dev/) and exploring [Docker](https://www.docker.com/).<br/>
 
 
 # 💻 Tech Stack:
